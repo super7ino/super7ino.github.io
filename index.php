@@ -1,1 +1,2 @@
-this is super7ino's blog
+<?php
+echo 'this is super7ino';
